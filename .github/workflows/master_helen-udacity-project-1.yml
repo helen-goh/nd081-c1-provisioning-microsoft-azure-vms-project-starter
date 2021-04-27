@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'helen-udacity-project-1'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_f57c1aefb1024f208a320a7730c2670e }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_a267fb7c235247ac89358239d778098e }}
